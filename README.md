@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sajadyazdan
-- 👀 I’m a Data Analysis and Machine Learning enthusiast.
+- 👀 I’m a Software Development.
 - 📫 You can reach me at this email: sajadyazdanparast1@gmail.com
 
 <!---
