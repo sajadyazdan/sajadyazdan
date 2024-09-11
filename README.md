@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sajadyazdan
-- 👀 I’m a Software Development.
+- 👀 I’m a Software Developer.
 - 📫 You can reach me at this email: sajadyazdanparast1@gmail.com
 
 <!---
