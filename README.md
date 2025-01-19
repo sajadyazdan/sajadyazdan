@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 Welcome to my GitHub!<br>I’m Sajad Yazdanparast, a dedicated Full-Stack Web Developer with a strong foundation in engineering and over a decade of programming experience. My journey has taken me from solving complex mechanical engineering problems to building robust, scalable web applications.<br><br>🔧 What I Do<br>I specialize in crafting intuitive user interfaces and efficient backend systems, leveraging tools and frameworks like:<br><br>Frontend: React, Next.js, HTML/CSS, JavaScript, TypeScript<br>Backend: Python, Node.js, Spring Boot, Java<br>Database Management: SQL, NoSQL<br>DevOps & Tools: Git, Docker, Jenkins
+Hi there! 👋 Welcome to my GitHub!<br>I’m Sajad Yazdanparast, a dedicated Full-Stack Web Developer with a strong foundation in engineering and over +5 years of programming experience. My journey has taken me from solving complex mechanical engineering problems to building robust, scalable web applications.<br><br>🔧 What I Do<br>I specialize in crafting intuitive user interfaces and efficient backend systems, leveraging tools and frameworks like:<br><br>Frontend: React, Next.js, HTML/CSS, JavaScript, TypeScript<br>Backend: Python, Node.js, Spring Boot, Java<br>Database Management: SQL, NoSQL<br>DevOps & Tools: Git, Docker, Jenkins
 
 
 ## 🌐 Socials:
